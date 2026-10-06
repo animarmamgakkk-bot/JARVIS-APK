@@ -1,0 +1,6 @@
+[32mlibpopt[0m/stable 1.19-3 aarch64
+  Library for parsing cmdline parameters
+
+[32mpar2[0m/stable 1.2.0 aarch64
+  par2cmdline is a PAR 2.0 compatible file verification and repair tool
+
